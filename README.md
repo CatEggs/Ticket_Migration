@@ -1,2 +1,2 @@
 # Ticket_Migration
-Migrating all tickets and attachments from FreshDesk to JitBit
+Migrating all tickets, conversation and attachments included, from FreshDesk to JitBit
